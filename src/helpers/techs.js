@@ -1,7 +1,6 @@
 export const techs = [
   {
     name: "React",
-    iconName: "react",
   },
   {
     name: "Node",
@@ -10,10 +9,10 @@ export const techs = [
     name: "Javascript",
   },
   {
-    name: "CSS3",
+    name: "CSS",
   },
   {
-    name: "HTML 5",
+    name: "HTML",
   },
   {
     name: "Mongo DB",
