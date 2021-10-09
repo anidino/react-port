@@ -1,7 +1,7 @@
 export const techs = [
   {
     name: "React",
-    iconName: "react",
+   
   },
   {
     name: "Node",
