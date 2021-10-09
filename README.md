@@ -1,17 +1,23 @@
+
 # React Portfolio
 
-## Gif of Deployed Portfolio
+## ScreenShot of Deployed Portfolio
+![portDeploy](https://user-images.githubusercontent.com/84213096/136659476-bae27889-d9f1-46dc-b9ad-bdefe3ec261d.jpg)
+
+## Video of Deployed Portfolio
+https://user-images.githubusercontent.com/84213096/136659696-51ba1308-7699-49b3-be74-8a1bc5210cfb.mp4
+
 
 ## Description
+This React practice portfolio was created during my Udemy course on React taught by Juan Camacho.
 
-This practice portfolio was created during my Udemy course on React taught by Juan Camacho
+## Link to Deployed Portfolio
+https://anidino.github.io/react-port/
 
 ## Contributors
-
 [@Juan321654](https://github.com/Juan321654)
 
 ## Installation
-
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
