@@ -1,38 +1,30 @@
 export const techs = [
   {
-    name: 'React',
-    iconName: 'react'
+    name: "React",
+    iconName: "react",
   },
   {
-    name: 'Ruby',
-    iconName: 'ruby'
+    name: "Node",
   },
   {
-    name: 'Javascript',
-    iconName: 'javascript'
+    name: "Javascript",
   },
   {
-    name: 'CSS3',
-    iconName: 'css3'
+    name: "CSS3",
   },
   {
-    name: 'HTML 5',
-    iconName: 'html5'
+    name: "HTML 5",
   },
   {
-    name: 'Mongo DB',
-    iconName: 'mongodb'
+    name: "Mongo DB",
   },
   {
-    name: 'Bootstrap',
-    iconName: 'bootstrap'
+    name: "Bootstrap",
   },
   {
-    name: 'SQL lite',
-    iconName: 'sqllite'
+    name: "SQL",
   },
   {
-    name: 'Github',
-    iconName: 'github'
+    name: "Github",
   },
-]
+];

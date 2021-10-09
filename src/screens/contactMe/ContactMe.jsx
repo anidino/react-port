@@ -13,9 +13,9 @@ function ContactMe() {
     <div className="contactMe__container" id="contact">
       <div className="contactMe__data__links">
         <div>
-          <p>Somewhere, NY</p>
-          <p>Juan Camacho</p>
-          <p>JuanCamacho@somewhere.com</p>
+          <p>Virginia Beach</p>
+          <p>Ani Carr</p>
+          <p>ani_elaina_carr@gmail.com</p>
         </div>
         <div>
           {createLinks()}

@@ -1,16 +1,18 @@
 import React from 'react'
 import './aboutMe.css'
-import person from '../../images/person.png'
+
+
+
 
 function AboutMe() {
   return (
     <div className="about__container" id="about-me">
-     <div>
-      <img src={person} alt="person icon"/>
-     </div>
+     {/* <div> */}
+      {/* <img src={"../../images/avatar.jpg"} alt="my avatar"/> */}
+     {/* </div> */}
      <div className="about__text">
-       <h1>ABOUT ME</h1>
-       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint quia placeat eos atque veniam voluptatum sapiente ipsum tempore iste, omnis cumque velit autem consectetur. Veritatis molestias ullam voluptas nostrum? Dolorum.</p>
+       <h1>About Me</h1>
+       <p>Thanks for stopping by. I am a Full Stack Developer who loves server-side development.</p>
      </div>
     </div>
   )

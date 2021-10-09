@@ -1,10 +1,14 @@
 .technologies__container {
-  background-color: var(--light-color);
-  color: var(--nav-color);
+  background-color: var(--nav-color);
+  color: black;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 3rem;
+}
+
+#tech_h1 {
+  color: white;
 }
 
 .tech__cards__container {
@@ -32,8 +36,8 @@
 
 .tech__icons {
   height: 70px;
-  background-color: var(--light-color);
-  border-radius: 50%;
+  /* background-color: var(--light-color); */
+  /* border-radius: 50%; */
 }
 
 .tech__card:hover {
