@@ -2,9 +2,10 @@
 
 ## Gif of Deployed Portfolio
 
+
 ## Description
 
-This practice portfolio was created during my Udemy course on React taught by Juan Camacho
+This practice portfolio was created during my Udemy course on React taught by Juan Camacho.
 
 ## Contributors
 
